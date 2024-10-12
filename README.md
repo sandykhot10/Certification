@@ -20,5 +20,12 @@
         <p>
         <p><a href="Digital Productivity-Certificatio.pdf" target="_blank">View Certification</a></p>
     </div>
+    <div class="container">
+        <h1>Aptitude Test Certification</h1>
+        <p>Welcome! You can view my Aptitude Test Certification by clicking the link below:</p>
+        <p>I successfully participated in the Aptitude Test on October 5-6, 2024, where I was tested on my ability to analyse patterns, solve problems, and think critically. I am proud to have been one of the top 30k students who qualified for the next round.</p>
+        <p>You can view the certification by clicking the link below:</p>
+        <p><a href="Aptitude_Test_Certification.pdf" target="_blank">View Certification</a></p>
+    </div>
 </body>
 </html>
