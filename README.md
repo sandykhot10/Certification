@@ -14,7 +14,7 @@
         <p><a href="ServiceNow_Micro-Certification.pdf" target="_blank">View Certification</a></p>
     </div>
       <div class="container">
-        <h1>Digital Productivity-Certificatio</h1>
+        <h1>Digital Productivity-Certification</h1>
         <p>Welcome! This certificate acknowledges that Sandesh Khot has successfully completed the Digital Productivity course offered by NIIT Foundation, enhancing skills in efficient digital tools and techniques as of September 23, 2024.</p>
         <p>You can view the certification by clicking the link below:</p>
         <p>
