@@ -5,6 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+        <div class="container">
+        <h1>ServiceNow Certified System Administrator (CSA) Certification</h1>
+        <p>Welcome! You can view my ServiceNow CSA Certification by clicking the link below:</p>
+        <p>I have successfully completed the "ServiceNow Certified System Administrator (CSA)" certification, which validates my expertise in managing and configuring the ServiceNow platform. This certification demonstrates my ability to handle core IT service management processes, user interface customizations, and workflow automation using ServiceNow.</p>
+        <p>You can view the certification by clicking the link below:</p>
+        <p><a href="ServiceNowCSA.pdf" target="_blank">View Certification</a></p>
+    </div>
     <div class="container">
         <h1>ServiceNow Micro-Certification</h1>
         <p>Welcome! You can view my ServiceNow Micro-Certification by clicking the link below:</p>
