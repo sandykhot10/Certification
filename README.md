@@ -6,6 +6,13 @@
 </head>
 <body>
         <div class="container">
+            <h1>ServiceNow Certified Application Developer (CAD) Certification</h1>
+            <p>Welcome! You can view my ServiceNow CAD Certification by clicking the link below:</p>
+            <p>I have successfully completed the "ServiceNow Certified Application Developer (CAD)" certification, which validates my expertise in designing and building applications on the ServiceNow platform. This certification demonstrates my ability to create custom applications, use application development tools, and implement integrations and automated workflows within ServiceNow.</p>
+            <p>You can view the certification by clicking the link below:</p>
+            <p><a href="ServiceNowCAD.pdf" target="_blank">View Certification</a></p>
+        </div>
+        <div class="container">
         <h1>ServiceNow Certified System Administrator (CSA) Certification</h1>
         <p>Welcome! You can view my ServiceNow CSA Certification by clicking the link below:</p>
         <p>I have successfully completed the "ServiceNow Certified System Administrator (CSA)" certification, which validates my expertise in managing and configuring the ServiceNow platform. This certification demonstrates my ability to handle core IT service management processes, user interface customizations, and workflow automation using ServiceNow.</p>
