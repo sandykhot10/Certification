@@ -41,5 +41,11 @@
         <p>You can view the certification by clicking the link below:</p>
         <p><a href="Aptitude_Test_Certification.pdf" target="_blank">View Certification</a></p>
     </div>
+        <div class="container">
+        <h1>BrandQuezt Contest #13: CSR and Sustainability Certificate</h1>
+        <p>Welcome! You can view my participation certificate for the BrandQuezt Contest on CSR and Sustainability by clicking the link below:</p>
+        <p>I participated in the BrandQuezt Contest #13: Corporate Social Responsibility (CSR) and Sustainability, hosted by Naukri Campus on November 3, 2024.</p>
+        <p><a href="NaukriCampus_Certificate_Participation.pdf" target="_blank">View Certification</a></p>
+    </div>
 </body>
 </html>
