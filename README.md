@@ -47,5 +47,11 @@
         <p>I participated in the BrandQuezt Contest #13: Corporate Social Responsibility (CSR) and Sustainability, hosted by Naukri Campus on November 3, 2024.</p>
         <p><a href="NaukriCampus_Certificate_Participation.pdf" target="_blank">View Certification</a></p>
     </div>
+    <div class="container">
+    <h1>CodeQuezt Contest: Data Structure and Algorithm Certificate</h1>
+    <p>Welcome! You can view my participation certificate for the CodeQuezt Contest on Data Structure and Algorithm by clicking the link below:</p>
+    <p>I participated in the CodeQuezt Contest: Data Structure and Algorithm, hosted by Naukri Campus on November 17, 2024.</p>
+    <p><a href="NaukriCampus_Certificate_DSA.pdf" target="_blank">View Certification</a></p>
+</div>
 </body>
 </html>
